@@ -6,7 +6,7 @@ This project aims to gain insight into Walmart's sales data to understand the va
 ## Project Aim
 The major aim of this project is to delve into Walmart's sales data to discern the different elements that affect the sales of the various branches, with an emphasis on data-driven decision-making to refine sales approaches and customer engagement.
 
-## Data Wrangling in Excel
+## Data cleaning in Excel
 The initial phase of the project involves meticulous data cleaning in Excel to ensure the quality and reliability of the analysis:
 - Identifying and addressing NULL and missing values.
 - Feature engineering to enrich the dataset with new columns such as `time_of_day`, `day_name`, and `month_name`.
