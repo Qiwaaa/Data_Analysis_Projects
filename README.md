@@ -1,5 +1,3 @@
-# Data-Analysis-Projects
-
 # Walmart Sales Analysis Project
 
 ## Introduction
