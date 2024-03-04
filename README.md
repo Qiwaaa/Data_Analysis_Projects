@@ -29,6 +29,6 @@ The findings from the MySQL queries are presented, providing answers to key busi
 The analysis concludes with actionable insights that can help Walmart tailor its product offerings and sales strategies to the needs and preferences of its customers, ultimately driving sales and profitability.
 
 ## How to Use This Repository
-- `Walmart Sales Data Wrangling.csv`: The CSV file with cleaned and processed sales data.
+- `Walmart Sales Analysis(Excel).csv`: The CSV file with cleaned and processed sales data.
 - `Walmart Sales Data Exploration.sql`: The SQL script with all the queries used for EDA.
 - `README.md`: Provides an overview and instructions for navigating through the analysis.
